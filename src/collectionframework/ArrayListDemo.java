@@ -1,4 +1,4 @@
-package collectionframwork;
+package collectionframework;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -19,6 +19,7 @@ public class ArrayListDemo {
         arrayList.add(30);
         arrayList.add(40);
         System.out.println(arrayList);
+
 
         List list = new ArrayList();
         list.add(10);
