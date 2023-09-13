@@ -10,7 +10,7 @@ public class TreeMapDemo {
         treeMap.put(10,"Pune");
         treeMap.put(20,"Mumbai");
         treeMap.put(25,"Mumbai");
-        treeMap.put(30,"Satara");
+        treeMap.put(30,"Sangamner");
         treeMap.put(40,"Sangli");
         treeMap.put(50,"Kolhapur");
 
