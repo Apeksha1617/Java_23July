@@ -3,7 +3,7 @@ package java8;
 import java.util.Optional;
 
 //optional keyword is used to handle null pointer exception
-//if constructor is private then we dont create object of class
+//if constructor is private then we don't create object of class
 public class OptionalDemo {
 
     public static void main(String[] args) {
