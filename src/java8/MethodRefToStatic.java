@@ -1,7 +1,7 @@
 package java8;
 
 public class MethodRefToStatic {
-    //Method Refrence to Static method
+    //Method Reference to Static method
     public static void main(String[] args) {
 
         //refer

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MethodRefToInstance {
-    //Method Refrence to Instance method
+    //Method Reference to Instance method
     public static void main(String[] args) {
         MethodRefToInstance methodRefToInstance = new MethodRefToInstance();
 
